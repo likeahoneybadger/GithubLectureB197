@@ -3,6 +3,8 @@ public class Class01 {
 
         //  Version1
         System.out.println("Version1");
+        //  Version2
+        System.out.println("Version 2");
 
     }
 }
