@@ -7,5 +7,7 @@ public class Class01 {
         System.out.println("Version 2");
         //  Version3
         System.out.println("Version 3");
+        //  Version4
+        System.out.println("Version 4");
     }
 }
